@@ -1,8 +1,8 @@
-- 👋 Olá, Eu sou o Edson Belem e meu email é: devedsonbelem@outlook.com
-- 👀 Eu me interesso muito por programação back-end
-- 🌱 Estudo o tempo inteiro, sou muito estudioso.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Olá, Eu sou o Edson Belem e meu email é: devedsonbelem@outlook.com
+👀 Eu me interesso muito por programação back-end.
+🌱 Estudo o tempo inteiro, sou muito estudioso.
+💞️ Sou professor de coração.
+📫 Meu e-mail: profedsonbelem@gmail.com
 
 <!---
 devedsonbelem/devedsonbelem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
