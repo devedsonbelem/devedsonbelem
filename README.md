@@ -1,4 +1,4 @@
-👋 Olá, Eu sou o Edson Belem e meu email é: devedsonbelem@outlook.com
+👋 Olá, Eu sou o Edson Belem.
 
 👀 Eu me interesso muito por programação back-end.
 
