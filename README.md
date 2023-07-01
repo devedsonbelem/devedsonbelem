@@ -1,6 +1,6 @@
 👋 Olá, Eu sou o Edson Belem.
 
-👀 Eu me interesso muito por programação back-end.
+👀 Eu me interesso muito por programação back-end, front-end, devops e cloud.
 
 🌱 Estudo o tempo inteiro, sou muito estudioso.
 
