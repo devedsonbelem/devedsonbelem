@@ -7,22 +7,22 @@
 
 <p align="left">
   ⚙ <b>Linguagens de Programação:</b> <br>
-  Java 17, C#, Kotlin, Python, Javascript, PHP
+  Java 17, C#, Kotlin, Python, Javascript, PHP, C++, Go, SQL, Ruby, Cobol
 </p>
 
 <p align="left">
 🌱 <b>Frameworks:</b><br>
-Spring Boot (Java), JEE (Java), Node.js (JavaScript), Angular (JavaScript/TypeScript), Flutter (Dart)
+Spring Boot (Java), JEE (Java), React, React Native, Node.js (JavaScript), Angular (JavaScript/TypeScript), Flutter (Dart), Vue, Flask, Django, Laravel.
 </p>
 
 <p align="left">
 🧪 <b>Ferramentas de Teste:</b><br>
-JUnit (framework de teste para Java), Mockito (biblioteca de mock para testes em Java), Selenium (framework de teste de interface de usuário), Postman (ferramenta para testar APIs), k6 (ferramenta de teste de carga e desempenho), Cucumber (framework de automação de teste), JMeter (ferramenta de teste de desempenho), Spock (framework de teste BDD), Mocha (framework de teste para JavaScript), Chai (biblioteca de asserções para JavaScript), SuperTest (biblioteca para testar APIs em Node.js), Cypress (framework de teste de interface de usuário)
+JUnit (framework de teste para Java), Mockito (biblioteca de mock para testes em Java), Selenium (framework de teste de interface de usuário), Postman (ferramenta para testar APIs), Insomnia, k6 (ferramenta de teste de carga e desempenho), Cucumber (framework de automação de teste), JMeter (ferramenta de teste de desempenho), Spock (framework de teste BDD), Mocha (framework de teste para JavaScript), Chai (biblioteca de asserções para JavaScript), SuperTest (biblioteca para testar APIs em Node.js), Cypress (framework de teste de interface de usuário)
 </p>
 
 <p align="left">
 ☁ <b>Serviços em Nuvem:</b><br>
-AWS (Amazon Web Services), Azure, GCP
+AWS (Amazon Web Services), Azure, GCP, Saas, Paas, Iaas
 </p>
 
 <p align="left">
@@ -37,7 +37,7 @@ Redis, RabbitMQ, Kafka, Message Queue
 
 <p align="left">
 🔗 <b>Arquitetura de Microserviços:</b><br>
-Spring Cloud (Java), Eureka, Padrão Saga, Padrão Pipe Filter, Event Bus, 
+Spring Cloud (Java), Eureka, Padrão Saga, Padrão Pipe Filter, Event Bus
 </p>
 
 <p align="left">
