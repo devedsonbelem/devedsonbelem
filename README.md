@@ -21,18 +21,53 @@ JUnit (framework de teste para Java), Mockito (biblioteca de mock para testes em
 </p>
 
 <p align="left">
-☁ Serviços em Nuvem:<br>
+☁ <b>Serviços em Nuvem:</b><br>
 AWS (Amazon Web Services), Azure, GCP
 </p>
 
 <p align="left">
-🏛 Padrões de Arquitetura:
+🏛 <b>Padrões de Arquitetura:</b><br>
 Spring MVC (Java), JSF (Java), Hexagonal Architecture, CQRS (Command Query Responsibility Segregation), Arquitetura SOA (Arquitetura Orientada a Serviços), Monolito, Elastic Search, ELK (Elasticsearch, Logstash, Kibana)
 </p>
 
 <p align="left">
-💬 Sistemas de Mensageria e Filas:
+💬 <b>Sistemas de Mensageria e Filas:</b><br>
 Redis, RabbitMQ, Kafka, Message Queue
+</p>
+
+<p align="left">
+🔗 <b>Arquitetura de Microserviços:</b><br>
+Spring Cloud (Java), Eureka, Padrão Saga, Padrão Pipe Filter, Event Bus, 
+</p>
+
+<p align="left">
+🧰 <b>Contêineres e Orquestração:</b><br>
+Docker (para contêinerização), Docker Swarm (orquestrador de contêineres), Kubernetes, Istio (para gerenciamento de serviços em Kubernetes), Rancher (plataforma de gerenciamento de contêineres)
+</p>
+
+<p align="left">
+💻 <b>Computação Serverless:</b><br>
+AWS Lambda (serviço de computação serverless)
+</p>
+
+<p align="left">
+🚪 <b>API e Gateway:</b><br>
+AWS API Gateway, JWT (JSON Web Tokens), Spring Security (Java)
+</p>
+
+<p align="left">
+🛠 <b>Ferramentas de Desenvolvimento e Teste:</b><br>
+SonarQube (ferramenta de análise estática de código), WebHook, Nexus (ferramenta de gerenciamento de repositórios), CI/CD (Integração Contínua e Entrega Contínua), Test BDD (Desenvolvimento Orientado a Comportamento), ksqlDB (processamento de streaming de dados)
+</p>
+
+<p align="left">
+👀 <b>Ferramentas e Frameworks de Monitoramento:</b><br>
+Hystrix, Netflix (para o conjunto de ferramentas Netflix OSS), Log Management (ELK, Splunk, Jaeger, Dynatrace, New Relic, Prometheus)
+</p>
+
+<p align="left">
+  💼 <b>Ferramentas de Trabalho:</b> <br>
+  Eclipse, STS, Intellij, Visual Code, Git, SVN, NPM, Yarn, Babel, Trello, Jira, Slack, Azure, Postman, Insomnia
 </p>
 
 <p align="left"> 
@@ -50,11 +85,6 @@ Redis, RabbitMQ, Kafka, Message Queue
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-</p>
-
-<p align="left">
-  💼 <b>Ferramentas de Trabalho:</b> <br>
-  Eclipse, STS, Intellij, Visual Code, Git, SVN, NPM, Yarn, Babel, Trello, Jira, Slack, Azure, Postman, Insomnia
 </p>
 
 <p align="left">
