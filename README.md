@@ -6,14 +6,13 @@
 </p>
 
 <p align="left">
-🛡 <b>Minhas certificações:</b><br>
-Certified Associate In Scrum Fundamentals™ (CASF™), ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™, ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™, LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, Sistema de Gestão de Segurança da Informação ISO / IEC 27001, Scrum Fundamentals Certified, Oracle Certification Program Associate, Sun Certified Business Component Developer (SCBCD) 1.4, Sun Certified Web Component Developer (SCWCD) 1.4, Sun Certified Programmer (SCJP) 1.4
-</p>
-
-
-<p align="left">
   ⚙ <b>Linguagens de Programação:</b> <br>
   Java 17, C#, Kotlin, Python, Javascript, PHP, C++, Go, SQL, Ruby, Cobol
+</p>
+
+<p align="left">
+🛡 <b>Minhas certificações:</b><br>
+Certified Associate In Scrum Fundamentals™ (CASF™), ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™, ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™, LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, Sistema de Gestão de Segurança da Informação ISO / IEC 27001, Scrum Fundamentals Certified, Oracle Certification Program Associate, Sun Certified Business Component Developer (SCBCD) 1.4, Sun Certified Web Component Developer (SCWCD) 1.4, Sun Certified Programmer (SCJP) 1.4
 </p>
 
 <p align="left">
