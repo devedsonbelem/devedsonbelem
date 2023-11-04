@@ -1,19 +1,32 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  💀 Meu nome é <b>Edson Belem de Souza Júnior</b>, sou <b>Arquiteto de Inovação e Full Stack Developer</b>, Java, Node, C#, Pyhton e sou professor de Programação. <br>
+  💀 Meu nome é <b>Edson Belem de Souza Júnior</b>, sou <b>Arquiteto de Inovação e Full Stack Developer</b> e sou professor de Programação. <br>
   Continuo estudando constantemente e me certificando.
 </p>
 
 <p align="left">
-  🦄 <b>Linguagens de Programação:</b> <br>
-  Java, Javascript, Typescript, Kotlin, HTML, CSS, SCSS, LESS
+  ⚙ <b>Linguagens de Programação:</b> <br>
+  Java 17, C#, Kotlin, Python, Javascript, PHP
 </p>
+
+<p align="left">
+🌱 <b>Frameworks:</b><br>
+Spring Boot (Java), JEE (Java), Node.js (JavaScript), Angular (JavaScript/TypeScript), Flutter (Dart)
+</p>
+
+<p align="left">
+🧪 <b>Ferramentas de Teste:</b><br>
+JUnit (framework de teste para Java), Mockito (biblioteca de mock para testes em Java), Selenium (framework de teste de interface de usuário), Postman (ferramenta para testar APIs), k6 (ferramenta de teste de carga e desempenho), Cucumber (framework de automação de teste), JMeter (ferramenta de teste de desempenho), Spock (framework de teste BDD), Mocha (framework de teste para JavaScript), Chai (biblioteca de asserções para JavaScript), SuperTest (biblioteca para testar APIs em Node.js), Cypress (framework de teste de interface de usuário)
+</p>
+
 
 <p align="left"> 
 🚀 <b>Minhas Skills:</b> <br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>  
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
