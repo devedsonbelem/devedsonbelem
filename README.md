@@ -20,6 +20,20 @@ Spring Boot (Java), JEE (Java), Node.js (JavaScript), Angular (JavaScript/TypeSc
 JUnit (framework de teste para Java), Mockito (biblioteca de mock para testes em Java), Selenium (framework de teste de interface de usuário), Postman (ferramenta para testar APIs), k6 (ferramenta de teste de carga e desempenho), Cucumber (framework de automação de teste), JMeter (ferramenta de teste de desempenho), Spock (framework de teste BDD), Mocha (framework de teste para JavaScript), Chai (biblioteca de asserções para JavaScript), SuperTest (biblioteca para testar APIs em Node.js), Cypress (framework de teste de interface de usuário)
 </p>
 
+<p align="left">
+☁ Serviços em Nuvem:<br>
+AWS (Amazon Web Services), Azure, GCP
+</p>
+
+<p align="left">
+🏛 Padrões de Arquitetura:
+Spring MVC (Java), JSF (Java), Hexagonal Architecture, CQRS (Command Query Responsibility Segregation), Arquitetura SOA (Arquitetura Orientada a Serviços), Monolito, Elastic Search, ELK (Elasticsearch, Logstash, Kibana)
+</p>
+
+<p align="left">
+💬 Sistemas de Mensageria e Filas:
+Redis, RabbitMQ, Kafka, Message Queue
+</p>
 
 <p align="left"> 
 🚀 <b>Minhas Skills:</b> <br>
