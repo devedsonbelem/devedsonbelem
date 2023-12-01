@@ -11,12 +11,39 @@
 </p>
 
 <p align="left">
-🛡 <b>Minhas certificações:</b><br>
-* Certified Associate In Scrum Fundamentals™ (CASF™), 
-* ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™, 
-* ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™, LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, Sistema de Gestão de Segurança da Informação ISO / IEC 27001, Scrum Fundamentals Certified, Oracle Certification Program Associate, Sun Certified Business Component Developer (SCBCD) 1.4, Sun Certified Web Component Developer (SCWCD) 1.4, Sun Certified Programmer (SCJP) 1.4
+🛡 <b>Minhas certificações:</b>
 </p>
-
+  <ul>
+    <li>Certified Associate In Scrum Fundamentals™ (CASF™), </li>
+    <li>
+  ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™,     
+    </li>
+    <li>
+  ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™,     
+    </li>
+<li>
+  LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, 
+</li>
+<li>
+  Sistema de Gestão de Segurança da Informação ISO / IEC 27001, 
+</li>
+    <li>
+  Scrum Fundamentals Certified,     
+    </li>
+    <li>
+  Oracle Certification Program Associate,     
+    </li>
+    <li>
+  Sun Certified Business Component Developer (SCBCD) 1.4,     
+    </li>
+    <li>
+  Sun Certified Web Component Developer (SCWCD) 1.4,     
+    </li>
+    <li>
+  Sun Certified Programmer (SCJP) 1.4    
+    </li>
+  </ul>
+  
 <p align="left">
 🌱 <b>Frameworks:</b><br>
 Spring Boot (Java), JEE (Java), React, React Native, Node.js (JavaScript), Angular (JavaScript/TypeScript), Ionic, Flutter (Dart), Vue, Flask, Django, Laravel.
