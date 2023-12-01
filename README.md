@@ -12,7 +12,9 @@
 
 <p align="left">
 🛡 <b>Minhas certificações:</b><br>
-Certified Associate In Scrum Fundamentals™ (CASF™), ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™, ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™, LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, Sistema de Gestão de Segurança da Informação ISO / IEC 27001, Scrum Fundamentals Certified, Oracle Certification Program Associate, Sun Certified Business Component Developer (SCBCD) 1.4, Sun Certified Web Component Developer (SCWCD) 1.4, Sun Certified Programmer (SCJP) 1.4
+* Certified Associate In Scrum Fundamentals™ (CASF™), 
+* ISO 9001 QUALITY MANAGEMENT SYSTEMS ASSOCIATE™, 
+* ISO/IEC 20000 IT SERVICE MANAGEMENT ASSOCIATE™, LEAN SIX SIGMA WHITE BELT PROFESSIONAL CERTIFICATION LSSWBPC, Sistema de Gestão de Segurança da Informação ISO / IEC 27001, Scrum Fundamentals Certified, Oracle Certification Program Associate, Sun Certified Business Component Developer (SCBCD) 1.4, Sun Certified Web Component Developer (SCWCD) 1.4, Sun Certified Programmer (SCJP) 1.4
 </p>
 
 <p align="left">
@@ -80,7 +82,7 @@ Hystrix, Netflix (para o conjunto de ferramentas Netflix OSS), Log Management (E
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>  
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="Csharp"/></code>  
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
