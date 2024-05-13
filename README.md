@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  ⚙ <b>Banco de Dados:</b> <br>
+  🔒 <b>Banco de Dados:</b> <br>
   Oracle, MongoDb, PostgreSql, MySql, SqlServer, Cassadra, Atlas, RDS, Firebase
 </p>
 
