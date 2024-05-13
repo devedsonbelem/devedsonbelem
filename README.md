@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  💀 Meu nome é <b>Edson Belem de Souza Júnior</b>, sou <b>Arquiteto de Inovação e Full Stack Developer</b> e sou professor de Programação. <br>
+  💀 Meu nome é <b>Edson Belem de Souza Júnior</b>, sou <b>Full Stack Developer Java e C# e Arquiteto de Inovação</b>. <br>
   Continuo estudando constantemente e me certificando. Sou autodidata.
 </p>
 
