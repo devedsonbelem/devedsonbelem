@@ -2,12 +2,17 @@
 
 <p align="left"> 
   💀 Meu nome é <b>Edson Belem de Souza Júnior</b>, sou <b>Arquiteto de Inovação e Full Stack Developer</b> e sou professor de Programação. <br>
-  Continuo estudando constantemente e me certificando.
+  Continuo estudando constantemente e me certificando. Sou autodidata.
 </p>
 
 <p align="left">
   ⚙ <b>Linguagens de Programação:</b> <br>
-  Java 17, C#, Kotlin, Python, Javascript, PHP, C++, Go, SQL, Ruby, Cobol
+  Java 17, Spring Frameworks, Springboot, Kotlin, Quarkus, C#, Python, Javascript, Typescript, PHP, C++, Go, SQL, PL/SQL, Ruby, Cobol
+</p>
+
+<p align="left">
+  ⚙ <b>Banco de Dados:</b> <br>
+  Oracle, MongoDb, PostgreSql, MySql, SqlServer, Cassadra, Atlas, RDS, Firebase
 </p>
 
 <p align="left">
